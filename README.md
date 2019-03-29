@@ -2,6 +2,10 @@
 
 Librairie maison réunisant un certain nombre de fonctions de la librairie C standard, ainsi que d'autres fonctions utilitaires pour les réutiliserer tout au long du cursus 101.
 
+## Sujet
+
+[PDF libft](https://github.com/Rorothejedi/101_libft/blob/master/libft.fr.pdf) 
+
 ## Utilisation
 
 Compilation de la librairie :
